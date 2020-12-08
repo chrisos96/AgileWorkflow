@@ -2,6 +2,7 @@ import datetime
 print("Hello world!")
 print("hi!")
 print("Hello there")
+print("Testing workflow example")
 x=5
 y=5
 print(x+y)
